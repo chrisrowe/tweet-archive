@@ -1,0 +1,85 @@
+{
+  "name": "chrisrowe/tweet-archive",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.19"
+  },
+  "title": "",
+  "branch": "",
+  "style": {
+    "name": "Material",
+    "componentSet": {
+      "nav": "nav/DarkAbsoluteNav",
+      "header": "header/GradientHeader",
+      "article": "article/BasicArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "Roboto, sans-serif",
+    "heading": {
+      "fontWeight": 500,
+      "letterSpacing": "-0.01em"
+    },
+    "colors": {
+      "text": "#212121",
+      "background": "#fff",
+      "primary": "#2196f3",
+      "secondary": "#1565c0",
+      "highlight": "#ff4081",
+      "border": "#e0e0e0",
+      "muted": "#f5f5f5"
+    },
+    "layout": {
+      "centered": true,
+      "bannerHeight": "80vh",
+      "maxWidth": 896
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/chrisrowe/tweet-archive",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "tweet-archive",
+      "subhead": "Archive of tweets as pulled from Twitter",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "tweet-archive: Archive of tweets as pulled from Twitter",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "chrisrowe",
+          "repo": "tweet-archive"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "<h1>How to use your Twitter archive</h1>\n<p>The simplest way to use your Twitter archive is through the archive browser interface provided in this file. Just double-click <code>index.html</code> from the root folder and you can browse your entire history of Tweets from inside your browser.</p>\n<hr>\n<p>In the <code>data</code> folder, your Twitter archive is present in two formats: JSON and CSV exports by month and year.</p>\n<ul>\n<li>CSV is a generic format that can be imported into many data tools, spreadsheet applications, or consumed simply using a programming language.</li>\n</ul>\n<h2>JSON for Developers</h2>\n<ul>\n<li>The JSON export contains a full representation of your Tweets as returned by v1.1 of the Twitter API. See <a href=\"https://dev.twitter.com/docs/api/1.1\">https://dev.twitter.com/docs/api/1.1</a> for more information.</li>\n<li>The JSON export is also used to power the archive browser interface (index.html).</li>\n<li>To consume the export in a generic JSON parser in any language, strip the first and last lines of each file.</li>\n</ul>\n<p>To provide feedback, ask questions, or share ideas with other Twitter developers, join the discussion forums on <a href=\"https://dev.twitter.com\">https://dev.twitter.com</a>.</p>\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/chrisrowe/tweet-archive",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/chrisrowe",
+          "text": "chrisrowe"
+        }
+      ]
+    }
+  ]
+}
