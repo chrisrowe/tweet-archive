@@ -85,7 +85,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Yeah?",
+      "name" : "Jony I've",
       "screen_name" : "qbyt",
       "indices" : [ 0, 5 ],
       "id_str" : "14131172",
@@ -210,7 +210,7 @@ Grailbird.data.tweets_2013_07 =
       "id" : 15888888
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/360861792852918274\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/360861792852918274\/photo\/1",
       "indices" : [ 17, 39 ],
       "url" : "http:\/\/t.co\/YbIyoSOM1h",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BQIJ44GCYAAp_Lk.jpg",
@@ -218,6 +218,10 @@ Grailbird.data.tweets_2013_07 =
       "id" : 360861792878092288,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQIJ44GCYAAp_Lk.jpg",
       "sizes" : [ {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 680
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -226,17 +230,13 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 1080
       }, {
-        "h" : 682,
+        "h" : 720,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 1080
       }, {
-        "h" : 226,
+        "h" : 720,
         "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 600
+        "w" : 1080
       } ],
       "display_url" : "pic.twitter.com\/YbIyoSOM1h"
     } ],
@@ -326,7 +326,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -398,7 +398,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike",
+      "name" : "\u1D0D\u026A\u1D0B\u1D07",
       "screen_name" : "Mr_Stezz",
       "indices" : [ 0, 9 ],
       "id_str" : "143786262",
@@ -700,7 +700,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Yeah?",
+      "name" : "Jony I've",
       "screen_name" : "qbyt",
       "indices" : [ 0, 5 ],
       "id_str" : "14131172",
@@ -880,7 +880,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 358511307764416513,
   "in_reply_to_status_id" : 358496878645616640,
   "created_at" : "2013-07-20 08:58:51 +0000",
-  "in_reply_to_screen_name" : "mrpsummers",
+  "in_reply_to_screen_name" : "cedricT60",
   "in_reply_to_user_id_str" : "371241634",
   "user" : {
     "name" : "Chris Rowe",
@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2013_07 =
       "id" : 10006492
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/356403377883713538\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/356403377883713538\/photo\/1",
       "indices" : [ 57, 79 ],
       "url" : "http:\/\/t.co\/bsuUFqCMh5",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BPIy-9_CEAE53Jt.jpg",
@@ -1113,21 +1113,21 @@ Grailbird.data.tweets_2013_07 =
       "id" : 356403377887907841,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BPIy-9_CEAE53Jt.jpg",
       "sizes" : [ {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 1024,
         "resize" : "fit",
         "w" : 768
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
+        "h" : 1024,
         "resize" : "fit",
-        "w" : 600
+        "w" : 768
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -1227,7 +1227,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Wright",
+      "name" : "Martin Wright \uD83D\uDCF1",
       "screen_name" : "mawawa",
       "indices" : [ 0, 7 ],
       "id_str" : "7077362",
@@ -1293,7 +1293,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kyee",
+      "name" : "Kyee \uD83E\uDD84",
       "screen_name" : "kyee",
       "indices" : [ 0, 5 ],
       "id_str" : "16250607",
@@ -1484,7 +1484,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr Simon Rudkin",
+      "name" : "Simon Rudkin",
       "screen_name" : "simonrudkin",
       "indices" : [ 0, 12 ],
       "id_str" : "9252112",
@@ -1560,7 +1560,7 @@ Grailbird.data.tweets_2013_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Pixel & Tonic",
-      "screen_name" : "pixelandtonic",
+      "screen_name" : "PixelAndTonic",
       "indices" : [ 74, 88 ],
       "id_str" : "82488357",
       "id" : 82488357
@@ -1727,7 +1727,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike",
+      "name" : "\u1D0D\u026A\u1D0B\u1D07",
       "screen_name" : "Mr_Stezz",
       "indices" : [ 0, 9 ],
       "id_str" : "143786262",

@@ -60,7 +60,7 @@ Grailbird.data.tweets_2015_01 =
       "id" : 19793281
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/561255840821153792\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/561255840821153792\/photo\/1",
       "indices" : [ 31, 53 ],
       "url" : "http:\/\/t.co\/01DNbedJcH",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B8n7Nc_CYAE-JXw.png",
@@ -68,6 +68,14 @@ Grailbird.data.tweets_2015_01 =
       "id" : 561255837121798145,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B8n7Nc_CYAE-JXw.png",
       "sizes" : [ {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 383
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -79,14 +87,6 @@ Grailbird.data.tweets_2015_01 =
         "h" : 1136,
         "resize" : "fit",
         "w" : 640
-      }, {
-        "h" : 1065,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 603,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/01DNbedJcH"
     } ],
@@ -227,7 +227,7 @@ Grailbird.data.tweets_2015_01 =
       "id" : 15888888
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/559067367402405889\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/559067367402405889\/photo\/1",
       "indices" : [ 14, 36 ],
       "url" : "http:\/\/t.co\/jBY2RRJA03",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B8I0zcVCIAA_c2r.jpg",
@@ -235,10 +235,6 @@ Grailbird.data.tweets_2015_01 =
       "id" : 559067362129747968,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B8I0zcVCIAA_c2r.jpg",
       "sizes" : [ {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -247,13 +243,17 @@ Grailbird.data.tweets_2015_01 =
         "resize" : "fit",
         "w" : 2448
       }, {
-        "h" : 800,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 600
+        "w" : 510
       }, {
-        "h" : 1365,
+        "h" : 1200,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 900
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1536
       } ],
       "display_url" : "pic.twitter.com\/jBY2RRJA03"
     } ],
@@ -305,7 +305,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katherine Cory",
+      "name" : "Katherine Cory \uD83D\uDC1D",
       "screen_name" : "KatherineCory",
       "indices" : [ 0, 14 ],
       "id_str" : "30286156",
@@ -338,13 +338,13 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 0, 12 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     }, {
-      "name" : "Katherine Cory",
+      "name" : "Katherine Cory \uD83D\uDC1D",
       "screen_name" : "KatherineCory",
       "indices" : [ 13, 27 ],
       "id_str" : "30286156",
@@ -362,7 +362,7 @@ Grailbird.data.tweets_2015_01 =
   "id" : 558390457898901506,
   "in_reply_to_status_id" : 558368826510020608,
   "created_at" : "2015-01-22 22:27:14 +0000",
-  "in_reply_to_screen_name" : "marcusbatey",
+  "in_reply_to_screen_name" : "sundaystudiouk",
   "in_reply_to_user_id_str" : "16687264",
   "user" : {
     "name" : "Chris Rowe",
@@ -726,7 +726,7 @@ Grailbird.data.tweets_2015_01 =
   "in_reply_to_status_id_str" : "555633300057100288",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 52.9329502685, -1.1367021542 ]
+    "coordinates" : [ 52.93295026854501, -1.136702154213044 ]
   },
   "id_str" : "555654204925427713",
   "in_reply_to_user_id" : 7731772,
@@ -749,13 +749,13 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Allwood",
+      "name" : "Christopher David James Allwood",
       "screen_name" : "_cdja",
       "indices" : [ 0, 6 ],
       "id_str" : "534780281",
       "id" : 534780281
     }, {
-      "name" : "Seth",
+      "name" : "Float: left;",
       "screen_name" : "nternetinspired",
       "indices" : [ 7, 23 ],
       "id_str" : "132566924",
@@ -821,14 +821,14 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Peach-Geraghty",
+      "name" : "Tom Geraghty",
       "screen_name" : "tom_geraghty",
       "indices" : [ 0, 13 ],
       "id_str" : "22492092",
       "id" : 22492092
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/553861129584508928\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/553861129584508928\/photo\/1",
       "indices" : [ 14, 36 ],
       "url" : "http:\/\/t.co\/JXAAgXNV8f",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B6-1wplIQAA4zVi.jpg",
@@ -836,25 +836,25 @@ Grailbird.data.tweets_2015_01 =
       "id" : 553861126589792256,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B6-1wplIQAA4zVi.jpg",
       "sizes" : [ {
-        "h" : 667,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 667,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 667,
-        "resize" : "fit",
-        "w" : 500
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 667,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 667,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 667,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 667,
+        "resize" : "fit",
+        "w" : 500
       } ],
       "display_url" : "pic.twitter.com\/JXAAgXNV8f"
     } ],
@@ -915,13 +915,13 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Allwood",
+      "name" : "Christopher David James Allwood",
       "screen_name" : "_cdja",
       "indices" : [ 0, 6 ],
       "id_str" : "534780281",
       "id" : 534780281
     }, {
-      "name" : "Seth",
+      "name" : "Float: left;",
       "screen_name" : "nternetinspired",
       "indices" : [ 7, 23 ],
       "id_str" : "132566924",
@@ -954,7 +954,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Seth",
+      "name" : "Float: left;",
       "screen_name" : "nternetinspired",
       "indices" : [ 0, 16 ],
       "id_str" : "132566924",
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "j",
+      "name" : "\uD835\uDD75 \u00D7 \uD835\uDD78",
       "screen_name" : "jamesm",
       "indices" : [ 0, 7 ],
       "id_str" : "14275130",
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "j",
+      "name" : "\uD835\uDD75 \u00D7 \uD835\uDD78",
       "screen_name" : "jamesm",
       "indices" : [ 0, 7 ],
       "id_str" : "14275130",
@@ -1195,7 +1195,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garry Shutler",
+      "name" : "Garry Shutler \uD83D\uDC68\u200D\uD83D\uDCBB\uD83D\uDCC6",
       "screen_name" : "gshutler",
       "indices" : [ 0, 9 ],
       "id_str" : "12430472",
@@ -1229,7 +1229,7 @@ Grailbird.data.tweets_2015_01 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/551694277034930177\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/551694277034930177\/photo\/1",
       "indices" : [ 108, 130 ],
       "url" : "http:\/\/t.co\/jiseAYgVUX",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B6gDBZHIcAEbLCB.jpg",
@@ -1237,25 +1237,25 @@ Grailbird.data.tweets_2015_01 =
       "id" : 551694276808437761,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B6gDBZHIcAEbLCB.jpg",
       "sizes" : [ {
-        "h" : 453,
+        "h" : 1920,
         "resize" : "fit",
-        "w" : 340
+        "w" : 1440
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
+      }, {
         "h" : 1920,
         "resize" : "fit",
         "w" : 1440
       }, {
-        "h" : 800,
+        "h" : 1200,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1365,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 900
       } ],
       "display_url" : "pic.twitter.com\/jiseAYgVUX"
     } ],
@@ -1269,7 +1269,7 @@ Grailbird.data.tweets_2015_01 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 52.9479785056, -1.2096762657 ]
+    "coordinates" : [ 52.947978505631994, -1.2096762657165527 ]
   },
   "id_str" : "551694277034930177",
   "text" : "No BBQs (it's -1\u00B0) (@ Wollaton Hall &amp; Deer Park in Nottingham, Nottinghamshire) https:\/\/t.co\/VZPdB4WqVR http:\/\/t.co\/jiseAYgVUX",

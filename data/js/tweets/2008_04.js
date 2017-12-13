@@ -68,6 +68,39 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dan Richardson",
+      "screen_name" : "danrichardson",
+      "indices" : [ 0, 14 ],
+      "id_str" : "10006492",
+      "id" : 10006492
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "799458538",
+  "geo" : { },
+  "id_str" : "799458709",
+  "in_reply_to_user_id" : 10006492,
+  "text" : "@danrichardson Pics or it didn't happen!",
+  "id" : 799458709,
+  "in_reply_to_status_id" : 799458538,
+  "created_at" : "2008-04-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "danrichardson",
+  "in_reply_to_user_id_str" : "10006492",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -110,39 +143,6 @@ Grailbird.data.tweets_2008_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dan Richardson",
-      "screen_name" : "danrichardson",
-      "indices" : [ 0, 14 ],
-      "id_str" : "10006492",
-      "id" : 10006492
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "799458538",
-  "geo" : { },
-  "id_str" : "799458709",
-  "in_reply_to_user_id" : 10006492,
-  "text" : "@danrichardson Pics or it didn't happen!",
-  "id" : 799458709,
-  "in_reply_to_status_id" : 799458538,
-  "created_at" : "2008-04-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "danrichardson",
-  "in_reply_to_user_id_str" : "10006492",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mel Kirk",
+      "name" : "Melanie Kentish \uD83C\uDF84\u26C4\uFE0F",
       "screen_name" : "MelKirk",
       "indices" : [ 0, 8 ],
       "id_str" : "14733",
@@ -773,7 +773,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mel Kirk",
+      "name" : "Melanie Kentish \uD83C\uDF84\u26C4\uFE0F",
       "screen_name" : "MelKirk",
       "indices" : [ 0, 8 ],
       "id_str" : "14733",

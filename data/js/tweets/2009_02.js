@@ -234,7 +234,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -856,7 +856,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot(t)",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 3, 17 ],
       "id_str" : "903351",
@@ -933,7 +933,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot(t)",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 0, 14 ],
       "id_str" : "903351",
@@ -1027,7 +1027,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -1092,16 +1092,11 @@ Grailbird.data.tweets_2009_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1215757844",
   "geo" : { },
   "id_str" : "1215769296",
-  "in_reply_to_user_id" : 14813902,
   "text" : "@DrYueh Glad you liked it, looks like a lot of others did too http:\/\/is.gd\/jHHf",
   "id" : 1215769296,
-  "in_reply_to_status_id" : 1215757844,
   "created_at" : "2009-02-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "theborchman",
-  "in_reply_to_user_id_str" : "14813902",
   "user" : {
     "name" : "Chris Rowe",
     "screen_name" : "chrisrowe",
@@ -1302,7 +1297,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -1456,7 +1451,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot(t)",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 0, 14 ],
       "id_str" : "903351",
@@ -1489,7 +1484,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonathan Reyes",
+      "name" : "Jonathan",
       "screen_name" : "jreyes33",
       "indices" : [ 0, 9 ],
       "id_str" : "20779334",
@@ -1555,7 +1550,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rick Giles",
+      "name" : "Lord_Beavis_OpenNet",
       "screen_name" : "lord_beavis",
       "indices" : [ 0, 12 ],
       "id_str" : "16282784",
@@ -1588,7 +1583,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kat Reeve",
+      "name" : "\u0181\u03B9\u03B7\u03B1\u044F\u0443\u0198\u03B9\u0442\u0442\u0454\u03B7 (\u0198\u03B1\u0442)",
       "screen_name" : "BinaryKitten",
       "indices" : [ 0, 13 ],
       "id_str" : "15058196",
@@ -1728,7 +1723,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thomas marban",
+      "name" : "Thomas Marban",
       "screen_name" : "thomas",
       "indices" : [ 0, 7 ],
       "id_str" : "11472",
@@ -1940,7 +1935,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 62, 71 ],
       "id_str" : "10083602",
@@ -2008,7 +2003,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -2129,7 +2124,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "16783853",
       "id" : 16783853
     }, {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 15, 30 ],
       "id_str" : "4017791",
@@ -2160,7 +2155,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -2379,8 +2374,30 @@ Grailbird.data.tweets_2009_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1175676359",
+  "text" : "GMail buttons are now styled rather than the default browser chrome. Much nicer now.",
+  "id" : 1175676359,
+  "created_at" : "2009-02-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Wright",
+      "name" : "Martin Wright \uD83D\uDCF1",
       "screen_name" : "mawawa",
       "indices" : [ 0, 7 ],
       "id_str" : "7077362",
@@ -2528,12 +2545,6 @@ Grailbird.data.tweets_2009_02 =
       "indices" : [ 0, 12 ],
       "id_str" : "2835194595",
       "id" : 2835194595
-    }, {
-      "name" : "Hunter Fuller",
-      "screen_name" : "hackmiester",
-      "indices" : [ 13, 25 ],
-      "id_str" : "14008212",
-      "id" : 14008212
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2646,28 +2657,6 @@ Grailbird.data.tweets_2009_02 =
   "id_str" : "1175625972",
   "text" : "Just got my tweet mentioned on Radio1 while @chrisdjmoyles tries (pretty well) to explain twitter. Can we call it mainstream yet?",
   "id" : 1175625972,
-  "created_at" : "2009-02-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1175676359",
-  "text" : "GMail buttons are now styled rather than the default browser chrome. Much nicer now.",
-  "id" : 1175676359,
   "created_at" : "2009-02-04 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -2809,7 +2798,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Van Damme",
+      "name" : "Max \u201CTim Van Damme\u201D Voltar",
       "screen_name" : "maxvoltar",
       "indices" : [ 0, 10 ],
       "id_str" : "2727051",
@@ -2952,7 +2941,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",

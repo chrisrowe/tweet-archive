@@ -190,7 +190,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sven",
+      "name" : "sven",
       "screen_name" : "svencharleer",
       "indices" : [ 3, 16 ],
       "id_str" : "11796012",
@@ -676,7 +676,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "J.D. Fitz.Gerald",
+      "name" : "JD",
       "screen_name" : "jdfitzgerald",
       "indices" : [ 3, 16 ],
       "id_str" : "7050352",
@@ -703,11 +703,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19677925204,
     "created_at" : "2010-07-27 18:44:06 +0000",
     "user" : {
-      "name" : "J.D. Fitz.Gerald",
+      "name" : "JD",
       "screen_name" : "jdfitzgerald",
       "protected" : false,
       "id_str" : "7050352",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451279538211659776\/rIin_Bb9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/908364932898541573\/piv4UA-__normal.jpg",
       "id" : 7050352,
       "verified" : false
     }
@@ -1012,6 +1012,39 @@ Grailbird.data.tweets_2010_07 =
   },
   "id" : 19430835388,
   "created_at" : "2010-07-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Bullock",
+      "screen_name" : "trullock",
+      "indices" : [ 0, 9 ],
+      "id_str" : "20198602",
+      "id" : 20198602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "19332355089",
+  "geo" : { },
+  "id_str" : "19332502930",
+  "in_reply_to_user_id" : 20198602,
+  "text" : "@trullock Oh-no-you-didn't! Love me some WOTW, saw the live production at Ice Area. Scruffs latest is very dub http:\/\/bit.ly\/d8buEo",
+  "id" : 19332502930,
+  "in_reply_to_status_id" : 19332355089,
+  "created_at" : "2010-07-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "trullock",
+  "in_reply_to_user_id_str" : "20198602",
   "user" : {
     "name" : "Chris Rowe",
     "screen_name" : "chrisrowe",
@@ -1366,39 +1399,6 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andrew Bullock",
-      "screen_name" : "trullock",
-      "indices" : [ 0, 9 ],
-      "id_str" : "20198602",
-      "id" : 20198602
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "19332355089",
-  "geo" : { },
-  "id_str" : "19332502930",
-  "in_reply_to_user_id" : 20198602,
-  "text" : "@trullock Oh-no-you-didn't! Love me some WOTW, saw the live production at Ice Area. Scruffs latest is very dub http:\/\/bit.ly\/d8buEo",
-  "id" : 19332502930,
-  "in_reply_to_status_id" : 19332355089,
-  "created_at" : "2010-07-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "trullock",
-  "in_reply_to_user_id_str" : "20198602",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1525,11 +1525,11 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "14467231",
       "id" : 14467231
     }, {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 73, 85 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2057,7 +2057,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot(t)",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 3, 17 ],
       "id_str" : "903351",
@@ -2383,7 +2383,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EtheyaDigitalCreativ",
+      "name" : "Brian Coult",
       "screen_name" : "etheya",
       "indices" : [ 0, 7 ],
       "id_str" : "19648476",
@@ -2414,7 +2414,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EtheyaDigitalCreativ",
+      "name" : "Brian Coult",
       "screen_name" : "etheya",
       "indices" : [ 0, 7 ],
       "id_str" : "19648476",
@@ -2657,7 +2657,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Greg Wood",
+      "name" : "WOOD",
       "screen_name" : "gregwood",
       "indices" : [ 63, 72 ],
       "id_str" : "10439272",
@@ -2732,7 +2732,7 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/campl.us\" rel=\"nofollow\"\u003ECamera+\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/camera.plus\" rel=\"nofollow\"\u003ECamera \u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2845,7 +2845,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Wright",
+      "name" : "Martin Wright \uD83D\uDCF1",
       "screen_name" : "mawawa",
       "indices" : [ 0, 7 ],
       "id_str" : "7077362",
@@ -2857,11 +2857,11 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "53338157",
       "id" : 53338157
     }, {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 20, 32 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     }, {
       "name" : "Darren Ramowski",
       "screen_name" : "darrenram",
@@ -2896,7 +2896,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matthew Reakus",
+      "name" : "Matthew Reakus, CFP\u00AE",
       "screen_name" : "mreakus",
       "indices" : [ 57, 65 ],
       "id_str" : "17225725",
@@ -3209,7 +3209,7 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 3, 10 ],
       "id_str" : "41783",
       "id" : 41783
@@ -3236,12 +3236,12 @@ Grailbird.data.tweets_2010_07 =
     "created_at" : "2010-06-30 21:32:14 +0000",
     "user" : {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "protected" : false,
       "id_str" : "41783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549675201093304320\/oSkymusp_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/935567935015305217\/B5rXIiTf_normal.jpg",
       "id" : 41783,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 17476443288,
@@ -3286,13 +3286,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Eds | Edryd Sharp",
-      "screen_name" : "bondomatic",
-      "indices" : [ 3, 14 ],
-      "id_str" : "17807132",
-      "id" : 17807132
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3314,11 +3308,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17498817914,
     "created_at" : "2010-07-01 15:10:20 +0000",
     "user" : {
-      "name" : "Eds | Edryd Sharp",
-      "screen_name" : "bondomatic",
+      "name" : "Edryd Sharp",
+      "screen_name" : "edryd",
       "protected" : false,
       "id_str" : "17807132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496749742693826560\/KBwqJ3xz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/830485867684827137\/jKoWdOxB_normal.jpg",
       "id" : 17807132,
       "verified" : false
     }

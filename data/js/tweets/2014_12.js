@@ -3,7 +3,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "yaykyle",
+      "name" : "Jack Skellington \uD83D\uDE18\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "yaykyle",
       "indices" : [ 0, 8 ],
       "id_str" : "6129732",
@@ -36,11 +36,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 0, 12 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -54,7 +54,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 549618061448585216,
   "in_reply_to_status_id" : 549617545964445696,
   "created_at" : "2014-12-29 17:28:51 +0000",
-  "in_reply_to_screen_name" : "marcusbatey",
+  "in_reply_to_screen_name" : "sundaystudiouk",
   "in_reply_to_user_id_str" : "16687264",
   "user" : {
     "name" : "Chris Rowe",
@@ -69,11 +69,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 0, 12 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -87,7 +87,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 549612868073947136,
   "in_reply_to_status_id" : 549610328192200705,
   "created_at" : "2014-12-29 17:08:13 +0000",
-  "in_reply_to_screen_name" : "marcusbatey",
+  "in_reply_to_screen_name" : "sundaystudiouk",
   "in_reply_to_user_id_str" : "16687264",
   "user" : {
     "name" : "Chris Rowe",
@@ -102,11 +102,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 0, 12 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -120,7 +120,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 549598910726295552,
   "in_reply_to_status_id" : 549575614500724736,
   "created_at" : "2014-12-29 16:12:46 +0000",
-  "in_reply_to_screen_name" : "marcusbatey",
+  "in_reply_to_screen_name" : "sundaystudiouk",
   "in_reply_to_user_id_str" : "16687264",
   "user" : {
     "name" : "Chris Rowe",
@@ -175,7 +175,7 @@ Grailbird.data.tweets_2014_12 =
       "id" : 7600892
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/547331169369726976\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/547331169369726976\/photo\/1",
       "indices" : [ 118, 140 ],
       "url" : "http:\/\/t.co\/lZqiSl6jCo",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/B5iCy_HCEAAaXUH.png",
@@ -187,21 +187,21 @@ Grailbird.data.tweets_2014_12 =
         "resize" : "fit",
         "w" : 893
       }, {
-        "h" : 55,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 147,
         "resize" : "fit",
         "w" : 893
       }, {
         "h" : 147,
         "resize" : "crop",
-        "w" : 150
+        "w" : 147
       }, {
-        "h" : 98,
+        "h" : 147,
         "resize" : "fit",
-        "w" : 600
+        "w" : 893
+      }, {
+        "h" : 112,
+        "resize" : "fit",
+        "w" : 680
       } ],
       "display_url" : "pic.twitter.com\/lZqiSl6jCo"
     } ],

@@ -64,7 +64,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u9673 Jon Tan",
+      "name" : "Jon Tan",
       "screen_name" : "jontangerine",
       "indices" : [ 0, 13 ],
       "id_str" : "7629722",
@@ -398,13 +398,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 8, 18 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -427,11 +421,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zoe_oleshansky",
+      "name" : "Thom White",
       "screen_name" : "thom_white",
       "indices" : [ 0, 11 ],
-      "id_str" : "2664194294",
-      "id" : 2664194294
+      "id_str" : "925438174473592832",
+      "id" : 925438174473592832
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -881,7 +875,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Deploy",
+      "name" : "DeployHQ",
       "screen_name" : "deployhq",
       "indices" : [ 0, 9 ],
       "id_str" : "180743261",
@@ -1125,11 +1119,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zoe_oleshansky",
+      "name" : "Thom White",
       "screen_name" : "thom_white",
       "indices" : [ 0, 11 ],
-      "id_str" : "2664194294",
-      "id" : 2664194294
+      "id_str" : "925438174473592832",
+      "id" : 925438174473592832
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1202,7 +1196,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -1360,7 +1354,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Deploy",
+      "name" : "DeployHQ",
       "screen_name" : "deployhq",
       "indices" : [ 0, 9 ],
       "id_str" : "180743261",
@@ -1393,7 +1387,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Deploy",
+      "name" : "DeployHQ",
       "screen_name" : "deployhq",
       "indices" : [ 0, 9 ],
       "id_str" : "180743261",
@@ -1502,7 +1496,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Bassett ",
+      "name" : "Aaron Bassett",
       "screen_name" : "aaronbassett",
       "indices" : [ 55, 68 ],
       "id_str" : "814672",
@@ -2049,7 +2043,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Deploy",
+      "name" : "DeployHQ",
       "screen_name" : "deployhq",
       "indices" : [ 80, 89 ],
       "id_str" : "180743261",
@@ -2109,13 +2103,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 101, 111 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2511,7 +2499,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EtheyaDigitalCreativ",
+      "name" : "Brian Coult",
       "screen_name" : "etheya",
       "indices" : [ 0, 7 ],
       "id_str" : "19648476",
@@ -2783,13 +2771,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jim Rowe",
-      "screen_name" : "jimmrowe",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15468594",
-      "id" : 15468594
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2802,7 +2784,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 29699640541,
   "in_reply_to_status_id" : 29699385532,
   "created_at" : "2010-11-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jimmrowe",
+  "in_reply_to_screen_name" : "BloomingJim",
   "in_reply_to_user_id_str" : "15468594",
   "user" : {
     "name" : "Chris Rowe",
@@ -2816,13 +2798,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jim Rowe",
-      "screen_name" : "jimmrowe",
-      "indices" : [ 0, 9 ],
-      "id_str" : "15468594",
-      "id" : 15468594
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2835,7 +2811,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 29700105428,
   "in_reply_to_status_id" : 29699948805,
   "created_at" : "2010-11-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jimmrowe",
+  "in_reply_to_screen_name" : "BloomingJim",
   "in_reply_to_user_id_str" : "15468594",
   "user" : {
     "name" : "Chris Rowe",
@@ -2850,11 +2826,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zoe_oleshansky",
+      "name" : "Thom White",
       "screen_name" : "thom_white",
       "indices" : [ 0, 11 ],
-      "id_str" : "2664194294",
-      "id" : 2664194294
+      "id_str" : "925438174473592832",
+      "id" : 925438174473592832
     } ],
     "media" : [ ],
     "hashtags" : [ ],

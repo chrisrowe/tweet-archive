@@ -211,7 +211,7 @@ Grailbird.data.tweets_2009_05 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 40, 47 ],
       "id_str" : "41783",
       "id" : 41783
@@ -283,7 +283,7 @@ Grailbird.data.tweets_2009_05 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 0, 7 ],
       "id_str" : "41783",
       "id" : 41783
@@ -300,7 +300,7 @@ Grailbird.data.tweets_2009_05 =
   "id" : 1917983122,
   "in_reply_to_status_id" : 1917957821,
   "created_at" : "2009-05-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mantia",
+  "in_reply_to_screen_name" : "Mantia",
   "in_reply_to_user_id_str" : "41783",
   "user" : {
     "name" : "Chris Rowe",
@@ -640,7 +640,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wired UK",
+      "name" : "WIRED UK",
       "screen_name" : "WiredUK",
       "indices" : [ 0, 8 ],
       "id_str" : "22363802",
@@ -771,8 +771,30 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1839442835",
+  "text" : "Bah I can't even pirate it, guess I'll have to do some typography work with Helvetica while listening to ElTenEleven to take my mind off it",
+  "id" : 1839442835,
+  "created_at" : "2009-05-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
-      "name" : "Wired UK",
+      "name" : "WIRED UK",
       "screen_name" : "WiredUK",
       "indices" : [ 0, 8 ],
       "id_str" : "22363802",
@@ -825,7 +847,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Imogen ",
+      "name" : "Imogen RealFeel\u00AE",
       "screen_name" : "imogen89",
       "indices" : [ 0, 9 ],
       "id_str" : "18874521",
@@ -880,7 +902,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Imogen ",
+      "name" : "Imogen RealFeel\u00AE",
       "screen_name" : "imogen89",
       "indices" : [ 0, 9 ],
       "id_str" : "18874521",
@@ -913,7 +935,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Imogen ",
+      "name" : "Imogen RealFeel\u00AE",
       "screen_name" : "imogen89",
       "indices" : [ 0, 9 ],
       "id_str" : "18874521",
@@ -954,28 +976,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1839395381",
   "text" : "There needs to be a microtransaction pay-per-view movie site like iPlayer\/Hulu. I'd pay \u00A33\/4 right now to watch Objectified in my browser.",
   "id" : 1839395381,
-  "created_at" : "2009-05-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1839442835",
-  "text" : "Bah I can't even pirate it, guess I'll have to do some typography work with Helvetica while listening to ElTenEleven to take my mind off it",
-  "id" : 1839442835,
   "created_at" : "2009-05-18 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -1230,7 +1230,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Imogen ",
+      "name" : "Imogen RealFeel\u00AE",
       "screen_name" : "imogen89",
       "indices" : [ 0, 9 ],
       "id_str" : "18874521",
@@ -1507,7 +1507,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot(t)",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 78, 92 ],
       "id_str" : "903351",
@@ -1580,7 +1580,7 @@ Grailbird.data.tweets_2009_05 =
       "id_str" : "9347972",
       "id" : 9347972
     }, {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 11, 20 ],
       "id_str" : "10083602",
@@ -1951,7 +1951,7 @@ Grailbird.data.tweets_2009_05 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 0, 7 ],
       "id_str" : "41783",
       "id" : 41783
@@ -1968,7 +1968,7 @@ Grailbird.data.tweets_2009_05 =
   "id" : 1690441463,
   "in_reply_to_status_id" : 1690378221,
   "created_at" : "2009-05-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mantia",
+  "in_reply_to_screen_name" : "Mantia",
   "in_reply_to_user_id_str" : "41783",
   "user" : {
     "name" : "Chris Rowe",
@@ -2174,26 +2174,21 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jessica",
+      "name" : "Jesi",
       "screen_name" : "jesirose",
       "indices" : [ 0, 9 ],
-      "id_str" : "611623",
-      "id" : 611623
+      "id_str" : "710214718011478016",
+      "id" : 710214718011478016
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1670382936",
   "geo" : { },
   "id_str" : "1670652075",
-  "in_reply_to_user_id" : 611623,
   "text" : "@jesirose Nah, coffee first, that way 20 minutes later the caffeine kicks in and wakes you up. Perfect nap duration.",
   "id" : 1670652075,
-  "in_reply_to_status_id" : 1670382936,
   "created_at" : "2009-05-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jesirose",
-  "in_reply_to_user_id_str" : "611623",
   "user" : {
     "name" : "Chris Rowe",
     "screen_name" : "chrisrowe",

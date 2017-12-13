@@ -4,7 +4,7 @@ Grailbird.data.tweets_2009_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 56, 63 ],
       "id_str" : "41783",
       "id" : 41783
@@ -91,7 +91,7 @@ Grailbird.data.tweets_2009_08 =
       "id" : 17885184
     }, {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 33, 40 ],
       "id_str" : "41783",
       "id" : 41783
@@ -182,7 +182,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul (friends only)",
+      "name" : "Paul",
       "screen_name" : "nicepaul",
       "indices" : [ 0, 9 ],
       "id_str" : "20137367",
@@ -224,6 +224,39 @@ Grailbird.data.tweets_2009_08 =
   "text" : "OH: \"7 of one and half of 14 of the other\"",
   "id" : 3381640807,
   "created_at" : "2009-08-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "I'm not *that* Chris Powell \uD83D\uDD96",
+      "screen_name" : "chrispowell",
+      "indices" : [ 0, 12 ],
+      "id_str" : "10403272",
+      "id" : 10403272
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "3370155703",
+  "geo" : { },
+  "id_str" : "3370635495",
+  "in_reply_to_user_id" : 10403272,
+  "text" : "@chrispowell Managed to find a Suriname registrar fairly cheap and got chri.sr - with 'owe' as my baseurl I'll be cooking!",
+  "id" : 3370635495,
+  "in_reply_to_status_id" : 3370155703,
+  "created_at" : "2009-08-17 00:00:00 +0000",
+  "in_reply_to_screen_name" : "chrispowell",
+  "in_reply_to_user_id_str" : "10403272",
   "user" : {
     "name" : "Chris Rowe",
     "screen_name" : "chrisrowe",
@@ -358,39 +391,6 @@ Grailbird.data.tweets_2009_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "chrispowell",
-      "screen_name" : "chrispowell",
-      "indices" : [ 0, 12 ],
-      "id_str" : "10403272",
-      "id" : 10403272
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "3370155703",
-  "geo" : { },
-  "id_str" : "3370635495",
-  "in_reply_to_user_id" : 10403272,
-  "text" : "@chrispowell Managed to find a Suriname registrar fairly cheap and got chri.sr - with 'owe' as my baseurl I'll be cooking!",
-  "id" : 3370635495,
-  "in_reply_to_status_id" : 3370155703,
-  "created_at" : "2009-08-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "chrispowell",
-  "in_reply_to_user_id_str" : "10403272",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -414,7 +414,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cat Burton",
+      "name" : "Cat Burton  \uD83D\uDCF7\uD83E\uDD8C",
       "screen_name" : "catburton",
       "indices" : [ 0, 10 ],
       "id_str" : "16654486",
@@ -681,7 +681,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 81, 90 ],
       "id_str" : "10083602",
@@ -809,7 +809,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Van Damme",
+      "name" : "Max \u201CTim Van Damme\u201D Voltar",
       "screen_name" : "maxvoltar",
       "indices" : [ 25, 35 ],
       "id_str" : "2727051",

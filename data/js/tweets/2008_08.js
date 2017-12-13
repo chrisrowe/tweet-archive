@@ -3,7 +3,7 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mel Kirk",
+      "name" : "Melanie Kentish \uD83C\uDF84\u26C4\uFE0F",
       "screen_name" : "MelKirk",
       "indices" : [ 0, 8 ],
       "id_str" : "14733",
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mel Kirk",
+      "name" : "Melanie Kentish \uD83C\uDF84\u26C4\uFE0F",
       "screen_name" : "MelKirk",
       "indices" : [ 0, 8 ],
       "id_str" : "14733",
@@ -889,7 +889,7 @@ Grailbird.data.tweets_2008_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin Rose",
+      "name" : "Kevin Rose \u26E9",
       "screen_name" : "kevinrose",
       "indices" : [ 0, 10 ],
       "id_str" : "657863",
@@ -949,9 +949,9 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "882427107",
-  "text" : "Watching the opening ceremony, woah, spectacular. http:\/\/www.bbc.co.uk\/iplayer\/episode\/b00cpf8p\/",
-  "id" : 882427107,
+  "id_str" : "882578275",
+  "text" : "Ranked 15256th on Tetris on facebook. I don't think thats too bad going!",
+  "id" : 882578275,
   "created_at" : "2008-08-09 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -971,9 +971,9 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "882578275",
-  "text" : "Ranked 15256th on Tetris on facebook. I don't think thats too bad going!",
-  "id" : 882578275,
+  "id_str" : "882427107",
+  "text" : "Watching the opening ceremony, woah, spectacular. http:\/\/www.bbc.co.uk\/iplayer\/episode\/b00cpf8p\/",
+  "id" : 882427107,
   "created_at" : "2008-08-09 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",

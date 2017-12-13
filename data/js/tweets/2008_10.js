@@ -593,11 +593,11 @@ Grailbird.data.tweets_2008_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cali Lewis",
+      "name" : "Luria Petrucci",
       "screen_name" : "CaliLewis",
       "indices" : [ 0, 10 ],
-      "id_str" : "774096",
-      "id" : 774096
+      "id_str" : "132658390",
+      "id" : 132658390
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -611,7 +611,7 @@ Grailbird.data.tweets_2008_10 =
   "id" : 957987000,
   "in_reply_to_status_id" : 957954234,
   "created_at" : "2008-10-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "CaliLewis",
+  "in_reply_to_screen_name" : "LuriaPetrucci",
   "in_reply_to_user_id_str" : "774096",
   "user" : {
     "name" : "Chris Rowe",
@@ -730,6 +730,31 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "fowa",
+      "indices" : [ 84, 89 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "954683471",
+  "text" : "Diggnation was epic. Bring on the beer. Anyone at the fox use the word cheese lots! #fowa",
+  "id" : 954683471,
+  "created_at" : "2008-10-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Simon Willison",
       "screen_name" : "simonw",
@@ -797,31 +822,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "954348271",
   "text" : "Food and pre-diggnation beer. Seen Hippie Glen, Alex Albrecht, Will Harris and nearly walked into Zuckerburg. #fowa",
   "id" : 954348271,
-  "created_at" : "2008-10-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fowa",
-      "indices" : [ 84, 89 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "954683471",
-  "text" : "Diggnation was epic. Bring on the beer. Anyone at the fox use the word cheese lots! #fowa",
-  "id" : 954683471,
   "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",

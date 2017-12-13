@@ -25,7 +25,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -58,7 +58,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -91,7 +91,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Van Damme",
+      "name" : "Max \u201CTim Van Damme\u201D Voltar",
       "screen_name" : "maxvoltar",
       "indices" : [ 3, 13 ],
       "id_str" : "2727051",
@@ -147,7 +147,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -202,7 +202,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot(t)",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 0, 14 ],
       "id_str" : "903351",
@@ -235,7 +235,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -290,7 +290,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -345,7 +345,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Van Damme",
+      "name" : "Max \u201CTim Van Damme\u201D Voltar",
       "screen_name" : "maxvoltar",
       "indices" : [ 0, 10 ],
       "id_str" : "2727051",
@@ -471,9 +471,9 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1075968298",
-  "text" : "Girlfriend had a bump last night by an uninsured driver who sped off. So unfair, nothing we can do. Hate this place sometimes.",
-  "id" : 1075968298,
+  "id_str" : "1077022922",
+  "text" : "That's me done for the day. G'night twitterverse. Have an epic day tomorrow and I'll see you on the other side. Merry Christmas!",
+  "id" : 1077022922,
   "created_at" : "2008-12-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -493,9 +493,9 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "1077022922",
-  "text" : "That's me done for the day. G'night twitterverse. Have an epic day tomorrow and I'll see you on the other side. Merry Christmas!",
-  "id" : 1077022922,
+  "id_str" : "1075968298",
+  "text" : "Girlfriend had a bump last night by an uninsured driver who sped off. So unfair, nothing we can do. Hate this place sometimes.",
+  "id" : 1075968298,
   "created_at" : "2008-12-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -719,7 +719,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Van Damme",
+      "name" : "Max \u201CTim Van Damme\u201D Voltar",
       "screen_name" : "maxvoltar",
       "indices" : [ 0, 10 ],
       "id_str" : "2727051",
@@ -796,7 +796,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -1066,7 +1066,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -1099,7 +1099,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliot(t)",
+      "name" : "Elliott Kernber",
       "screen_name" : "elliottkember",
       "indices" : [ 0, 14 ],
       "id_str" : "903351",
@@ -1325,7 +1325,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -1496,7 +1496,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott \uF8FF \u266B ",
+      "name" : "Scott",
       "screen_name" : "ramdomthoughts",
       "indices" : [ 0, 15 ],
       "id_str" : "4017791",
@@ -1638,6 +1638,34 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Melanie Kentish \uD83C\uDF84\u26C4\uFE0F",
+      "screen_name" : "MelKirk",
+      "indices" : [ 11, 19 ],
+      "id_str" : "14733",
+      "id" : 14733
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1046935950",
+  "text" : "Retweeting @MelKirk: A great idea http:\/\/www.befriendageek.com\/ doing your bit this Christmas?",
+  "id" : 1046935950,
+  "created_at" : "2008-12-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1735,34 +1763,6 @@ Grailbird.data.tweets_2008_12 =
   "id_str" : "1046895275",
   "text" : "Hands are freezing, got the heater on at work and having to type with gloves on... Not easy!",
   "id" : 1046895275,
-  "created_at" : "2008-12-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mel Kirk",
-      "screen_name" : "MelKirk",
-      "indices" : [ 11, 19 ],
-      "id_str" : "14733",
-      "id" : 14733
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1046935950",
-  "text" : "Retweeting @MelKirk: A great idea http:\/\/www.befriendageek.com\/ doing your bit this Christmas?",
-  "id" : 1046935950,
   "created_at" : "2008-12-09 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -2305,7 +2305,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cat Burton",
+      "name" : "Cat Burton  \uD83D\uDCF7\uD83E\uDD8C",
       "screen_name" : "catburton",
       "indices" : [ 0, 10 ],
       "id_str" : "16654486",

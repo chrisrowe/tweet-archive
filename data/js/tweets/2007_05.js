@@ -250,9 +250,9 @@ Grailbird.data.tweets_2007_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "77193672",
-  "text" : "It's 1 o'clock in the morning and I have work tommorow, yet still I sit in bed on latop developing with Apollo. Should APIs be a legal requi",
-  "id" : 77193672,
+  "id_str" : "77151962",
+  "text" : "Editing explorer.exe is a lot of fun!",
+  "id" : 77151962,
   "created_at" : "2007-05-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -272,9 +272,9 @@ Grailbird.data.tweets_2007_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "77151962",
-  "text" : "Editing explorer.exe is a lot of fun!",
-  "id" : 77151962,
+  "id_str" : "77193672",
+  "text" : "It's 1 o'clock in the morning and I have work tommorow, yet still I sit in bed on latop developing with Apollo. Should APIs be a legal requi",
+  "id" : 77193672,
   "created_at" : "2007-05-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",

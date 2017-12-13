@@ -448,9 +448,9 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "776450032",
-  "text" : "Early night with the help of www.pzizz.com Want to get my Axbo sleep-phase alarm back in action now I've shifted my work hours.",
-  "id" : 776450032,
+  "id_str" : "776442800",
+  "text" : "Testing out Firefox 3 Beta 4, blazing fast, especially with JS. Small footprint too, handy for my eeePC",
+  "id" : 776442800,
   "created_at" : "2008-03-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -470,9 +470,9 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "776442800",
-  "text" : "Testing out Firefox 3 Beta 4, blazing fast, especially with JS. Small footprint too, handy for my eeePC",
-  "id" : 776442800,
+  "id_str" : "776450032",
+  "text" : "Early night with the help of www.pzizz.com Want to get my Axbo sleep-phase alarm back in action now I've shifted my work hours.",
+  "id" : 776450032,
   "created_at" : "2008-03-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",

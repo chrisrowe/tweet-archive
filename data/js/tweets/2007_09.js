@@ -228,6 +228,28 @@ Grailbird.data.tweets_2007_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "284328232",
+  "text" : "En route to Limbo to burn some time!",
+  "id" : 284328232,
+  "created_at" : "2007-09-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "284705802",
   "text" : "Waiting for Incubus at Ice Arena. Rock on!",
   "id" : 284705802,
@@ -275,28 +297,6 @@ Grailbird.data.tweets_2007_09 =
   "id_str" : "283886532",
   "text" : "If at first you don't succeed, try and try again. Then just give up and use an iframe!",
   "id" : 283886532,
-  "created_at" : "2007-09-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "284328232",
-  "text" : "En route to Limbo to burn some time!",
-  "id" : 284328232,
   "created_at" : "2007-09-21 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",

@@ -53,7 +53,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Albert Stringer",
+      "name" : "robert stringer",
       "screen_name" : "xz",
       "indices" : [ 0, 3 ],
       "id_str" : "7212632",
@@ -86,7 +86,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike",
+      "name" : "\u1D0D\u026A\u1D0B\u1D07",
       "screen_name" : "Mr_Stezz",
       "indices" : [ 0, 9 ],
       "id_str" : "143786262",
@@ -184,7 +184,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Allwood",
+      "name" : "Christopher David James Allwood",
       "screen_name" : "_cdja",
       "indices" : [ 0, 6 ],
       "id_str" : "534780281",
@@ -228,7 +228,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Allwood",
+      "name" : "Christopher David James Allwood",
       "screen_name" : "_cdja",
       "indices" : [ 0, 6 ],
       "id_str" : "534780281",
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Allwood",
+      "name" : "Christopher David James Allwood",
       "screen_name" : "_cdja",
       "indices" : [ 0, 6 ],
       "id_str" : "534780281",
@@ -294,7 +294,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Allwood",
+      "name" : "Christopher David James Allwood",
       "screen_name" : "_cdja",
       "indices" : [ 0, 6 ],
       "id_str" : "534780281",
@@ -330,8 +330,8 @@ Grailbird.data.tweets_2014_05 =
       "name" : "Erskine Design",
       "screen_name" : "erskinedesign",
       "indices" : [ 0, 14 ],
-      "id_str" : "16327925",
-      "id" : 16327925
+      "id_str" : "2433852138",
+      "id" : 2433852138
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2014_05 =
   "text" : "@erskinedesign Best thing about your Django &gt; Middleman move is full article RSS feed \uD83D\uDE0D",
   "id" : 471326502525882368,
   "created_at" : "2014-05-27 16:26:09 +0000",
-  "in_reply_to_screen_name" : "erskinedesign",
+  "in_reply_to_screen_name" : "simplygoodwork",
   "in_reply_to_user_id_str" : "16327925",
   "user" : {
     "name" : "Chris Rowe",
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "793926",
       "id" : 793926
     }, {
-      "name" : "yaykyle",
+      "name" : "Jack Skellington \uD83D\uDE18\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "yaykyle",
       "indices" : [ 11, 19 ],
       "id_str" : "6129732",
@@ -428,7 +428,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "bradleychambers",
       "protected" : false,
       "id_str" : "15439333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000266415595\/f254c476809f1a78184d2194fe253ba6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846751318790287361\/TF9j6aTp_normal.jpg",
       "id" : 15439333,
       "verified" : false
     }
@@ -448,11 +448,11 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Holly Brockwell",
+      "name" : "Ctrl-Alt-Brockwell",
       "screen_name" : "hollybrocks",
       "indices" : [ 0, 12 ],
-      "id_str" : "7555262",
-      "id" : 7555262
+      "id_str" : "3301529338",
+      "id" : 3301529338
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -471,7 +471,7 @@ Grailbird.data.tweets_2014_05 =
   "id" : 471281057762115584,
   "in_reply_to_status_id" : 471280233736577026,
   "created_at" : "2014-05-27 13:25:34 +0000",
-  "in_reply_to_screen_name" : "hollybrocks",
+  "in_reply_to_screen_name" : "holly",
   "in_reply_to_user_id_str" : "7555262",
   "user" : {
     "name" : "Chris Rowe",
@@ -486,7 +486,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Allwood",
+      "name" : "Christopher David James Allwood",
       "screen_name" : "_cdja",
       "indices" : [ 0, 6 ],
       "id_str" : "534780281",
@@ -607,7 +607,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert Stringer",
+      "name" : "robert stringer",
       "screen_name" : "xz",
       "indices" : [ 0, 3 ],
       "id_str" : "7212632",
@@ -652,11 +652,11 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Howard",
+      "name" : "JImbo",
       "screen_name" : "user24",
       "indices" : [ 0, 7 ],
-      "id_str" : "14627664",
-      "id" : 14627664
+      "id_str" : "832209706617860096",
+      "id" : 832209706617860096
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -668,7 +668,7 @@ Grailbird.data.tweets_2014_05 =
   "text" : "@user24 Hah, thanks. I\u2019d sussed out that much, I need something like fittext.js but for height too, wondered if it exists",
   "id" : 471015510080245760,
   "created_at" : "2014-05-26 19:50:23 +0000",
-  "in_reply_to_screen_name" : "user24",
+  "in_reply_to_screen_name" : "citizen_of_now",
   "in_reply_to_user_id_str" : "14627664",
   "user" : {
     "name" : "Chris Rowe",
@@ -742,16 +742,11 @@ Grailbird.data.tweets_2014_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "470610638033944576",
   "geo" : { },
   "id_str" : "470619273690636290",
-  "in_reply_to_user_id" : 432749084,
   "text" : "@benbuildsstuff Tweetbot bro",
   "id" : 470619273690636290,
-  "in_reply_to_status_id" : 470610638033944576,
   "created_at" : "2014-05-25 17:35:53 +0000",
-  "in_reply_to_screen_name" : "bensnapsstuff",
-  "in_reply_to_user_id_str" : "432749084",
   "user" : {
     "name" : "Chris Rowe",
     "screen_name" : "chrisrowe",
@@ -864,7 +859,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garry Shutler",
+      "name" : "Garry Shutler \uD83D\uDC68\u200D\uD83D\uDCBB\uD83D\uDCC6",
       "screen_name" : "gshutler",
       "indices" : [ 0, 9 ],
       "id_str" : "12430472",
@@ -1147,8 +1142,8 @@ Grailbird.data.tweets_2014_05 =
       "name" : "Erskine Design",
       "screen_name" : "erskinedesign",
       "indices" : [ 0, 14 ],
-      "id_str" : "16327925",
-      "id" : 16327925
+      "id_str" : "2433852138",
+      "id" : 2433852138
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1162,7 +1157,7 @@ Grailbird.data.tweets_2014_05 =
   "id" : 468717831765630977,
   "in_reply_to_status_id" : 468712795945848832,
   "created_at" : "2014-05-20 11:40:14 +0000",
-  "in_reply_to_screen_name" : "erskinedesign",
+  "in_reply_to_screen_name" : "simplygoodwork",
   "in_reply_to_user_id_str" : "16327925",
   "user" : {
     "name" : "Chris Rowe",
@@ -1239,7 +1234,7 @@ Grailbird.data.tweets_2014_05 =
       "id" : 6026722
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/467772736866373632\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/467772736866373632\/photo\/1",
       "indices" : [ 69, 91 ],
       "url" : "http:\/\/t.co\/MBcLyj1uzv",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Bn3c010IIAA865a.png",
@@ -1247,25 +1242,25 @@ Grailbird.data.tweets_2014_05 =
       "id" : 467772736673423360,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bn3c010IIAA865a.png",
       "sizes" : [ {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 383
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 1065,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 603,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/MBcLyj1uzv"
     } ],
@@ -1565,7 +1560,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Athi",
+      "name" : "Kris",
       "screen_name" : "lookitskris",
       "indices" : [ 0, 12 ],
       "id_str" : "12377032",
@@ -1797,7 +1792,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Wright",
+      "name" : "Martin Wright \uD83D\uDCF1",
       "screen_name" : "mawawa",
       "indices" : [ 0, 7 ],
       "id_str" : "7077362",
@@ -1830,7 +1825,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Martin Wright",
+      "name" : "Martin Wright \uD83D\uDCF1",
       "screen_name" : "mawawa",
       "indices" : [ 0, 7 ],
       "id_str" : "7077362",
@@ -1888,8 +1883,8 @@ Grailbird.data.tweets_2014_05 =
       "name" : "Copper.io",
       "screen_name" : "copperio",
       "indices" : [ 0, 9 ],
-      "id_str" : "343431323",
-      "id" : 343431323
+      "id_str" : "97450430",
+      "id" : 97450430
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1901,7 +1896,7 @@ Grailbird.data.tweets_2014_05 =
   "text" : "@copperio Is Point having issues? Do you have a status page? Seems down",
   "id" : 464728356022648832,
   "created_at" : "2014-05-09 11:27:28 +0000",
-  "in_reply_to_screen_name" : "copperio",
+  "in_reply_to_screen_name" : "telestreamcloud",
   "in_reply_to_user_id_str" : "343431323",
   "user" : {
     "name" : "Chris Rowe",
@@ -2343,84 +2338,6 @@ Grailbird.data.tweets_2014_05 =
   "created_at" : "2014-05-04 20:28:17 +0000",
   "in_reply_to_screen_name" : "steve228uk",
   "in_reply_to_user_id_str" : "3725011",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "@jongold",
-      "screen_name" : "jongold",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14199907",
-      "id" : 14199907
-    }, {
-      "name" : "Jake Archibald",
-      "screen_name" : "jaffathecake",
-      "indices" : [ 100, 113 ],
-      "id_str" : "15390783",
-      "id" : 15390783
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 114, 136 ],
-      "url" : "http:\/\/t.co\/GQ89UTjh9x",
-      "expanded_url" : "http:\/\/jakearchibald.com\/2014\/improving-the-url-bar\/",
-      "display_url" : "jakearchibald.com\/2014\/improving\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "462984161700347904",
-  "text" : "RT @jongold: Totally changed my opinion of Chrome Canary's URL hiding experiment - great article by @jaffathecake http:\/\/t.co\/GQ89UTjh9x",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jake Archibald",
-        "screen_name" : "jaffathecake",
-        "indices" : [ 87, 100 ],
-        "id_str" : "15390783",
-        "id" : 15390783
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 101, 123 ],
-        "url" : "http:\/\/t.co\/GQ89UTjh9x",
-        "expanded_url" : "http:\/\/jakearchibald.com\/2014\/improving-the-url-bar\/",
-        "display_url" : "jakearchibald.com\/2014\/improving\u2026"
-      } ]
-    },
-    "in_reply_to_status_id_str" : "462924429526564864",
-    "geo" : { },
-    "id_str" : "462942599222132736",
-    "in_reply_to_user_id" : 15390783,
-    "text" : "Totally changed my opinion of Chrome Canary's URL hiding experiment - great article by @jaffathecake http:\/\/t.co\/GQ89UTjh9x",
-    "id" : 462942599222132736,
-    "in_reply_to_status_id" : 462924429526564864,
-    "created_at" : "2014-05-04 13:11:31 +0000",
-    "in_reply_to_screen_name" : "jaffathecake",
-    "in_reply_to_user_id_str" : "15390783",
-    "user" : {
-      "name" : "@jongold",
-      "screen_name" : "jongold",
-      "protected" : false,
-      "id_str" : "14199907",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562683078586298368\/cZzzaVf6_normal.jpeg",
-      "id" : 14199907,
-      "verified" : false
-    }
-  },
-  "id" : 462984161700347904,
-  "created_at" : "2014-05-04 15:56:40 +0000",
   "user" : {
     "name" : "Chris Rowe",
     "screen_name" : "chrisrowe",

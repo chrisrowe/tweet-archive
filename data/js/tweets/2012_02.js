@@ -119,7 +119,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Yeah?",
+      "name" : "Jony I've",
       "screen_name" : "qbyt",
       "indices" : [ 0, 5 ],
       "id_str" : "14131172",
@@ -382,7 +382,7 @@ Grailbird.data.tweets_2012_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/173047132566192128\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/173047132566192128\/photo\/1",
       "indices" : [ 34, 54 ],
       "url" : "http:\/\/t.co\/XALQyhMC",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AmbJc0JCAAAtDlI.jpg",
@@ -390,14 +390,6 @@ Grailbird.data.tweets_2012_02 =
       "id" : 173047132570386432,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AmbJc0JCAAAtDlI.jpg",
       "sizes" : [ {
-        "h" : 816,
-        "resize" : "fit",
-        "w" : 612
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -406,9 +398,17 @@ Grailbird.data.tweets_2012_02 =
         "resize" : "fit",
         "w" : 612
       }, {
-        "h" : 800,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 600
+        "w" : 510
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
+      }, {
+        "h" : 816,
+        "resize" : "fit",
+        "w" : 612
       } ],
       "display_url" : "pic.twitter.com\/XALQyhMC"
     } ],
@@ -436,7 +436,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Yeah?",
+      "name" : "Jony I've",
       "screen_name" : "qbyt",
       "indices" : [ 4, 9 ],
       "id_str" : "14131172",
@@ -787,7 +787,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Yeah?",
+      "name" : "Jony I've",
       "screen_name" : "qbyt",
       "indices" : [ 3, 8 ],
       "id_str" : "14131172",
@@ -815,7 +815,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Bassett ",
+      "name" : "Aaron Bassett",
       "screen_name" : "aaronbassett",
       "indices" : [ 3, 16 ],
       "id_str" : "814672",
@@ -852,11 +852,11 @@ Grailbird.data.tweets_2012_02 =
     "id" : 171857947683594241,
     "created_at" : "2012-02-21 07:25:02 +0000",
     "user" : {
-      "name" : "Aaron Bassett ",
+      "name" : "Aaron Bassett",
       "screen_name" : "aaronbassett",
       "protected" : false,
       "id_str" : "814672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497725411753603072\/a_p-RIR6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643513446240284672\/-ysBBP0S_normal.jpg",
       "id" : 814672,
       "verified" : false
     }
@@ -1085,11 +1085,11 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 0, 12 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1103,7 +1103,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 170220880822149120,
   "in_reply_to_status_id" : 170219421737037825,
   "created_at" : "2012-02-16 18:59:55 +0000",
-  "in_reply_to_screen_name" : "marcusbatey",
+  "in_reply_to_screen_name" : "sundaystudiouk",
   "in_reply_to_user_id_str" : "16687264",
   "user" : {
     "name" : "Chris Rowe",
@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -1260,7 +1260,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "20198602",
       "id" : 20198602
     }, {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 10, 19 ],
       "id_str" : "10083602",
@@ -1333,7 +1333,7 @@ Grailbird.data.tweets_2012_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 0, 7 ],
       "id_str" : "41783",
       "id" : 41783
@@ -1350,7 +1350,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 169482319227400192,
   "in_reply_to_status_id" : 169482050091495425,
   "created_at" : "2012-02-14 18:05:08 +0000",
-  "in_reply_to_screen_name" : "mantia",
+  "in_reply_to_screen_name" : "Mantia",
   "in_reply_to_user_id_str" : "41783",
   "user" : {
     "name" : "Chris Rowe",
@@ -1366,7 +1366,7 @@ Grailbird.data.tweets_2012_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louie",
-      "screen_name" : "mantia",
+      "screen_name" : "Mantia",
       "indices" : [ 0, 7 ],
       "id_str" : "41783",
       "id" : 41783
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 169481880696135682,
   "in_reply_to_status_id" : 169460399782100992,
   "created_at" : "2012-02-14 18:03:23 +0000",
-  "in_reply_to_screen_name" : "mantia",
+  "in_reply_to_screen_name" : "Mantia",
   "in_reply_to_user_id_str" : "41783",
   "user" : {
     "name" : "Chris Rowe",
@@ -1398,7 +1398,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -1431,7 +1431,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -1874,7 +1874,7 @@ Grailbird.data.tweets_2012_02 =
       "id" : 16669898
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/chrisrowe\/status\/167514110458740736\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/chrisrowe\/status\/167514110458740736\/photo\/1",
       "indices" : [ 116, 136 ],
       "url" : "http:\/\/t.co\/nu96aqiY",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AlMhMikCQAEP1Vs.jpg",
@@ -1882,21 +1882,21 @@ Grailbird.data.tweets_2012_02 =
       "id" : 167514110462935041,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AlMhMikCQAEP1Vs.jpg",
       "sizes" : [ {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 1024,
         "resize" : "fit",
         "w" : 768
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
+        "h" : 1024,
         "resize" : "fit",
-        "w" : 600
+        "w" : 768
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
       }, {
         "h" : 1024,
         "resize" : "fit",

@@ -22,57 +22,6 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jodie",
-      "screen_name" : "iversia",
-      "indices" : [ 3, 11 ],
-      "id_str" : "14314571",
-      "id" : 14314571
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "29166230624",
-  "text" : "RT @iversia: What if the remaining IE6 market share is composed completely of web designers still testing for IE6? http:\/\/bit.ly\/cr19At",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "29107766711",
-    "text" : "What if the remaining IE6 market share is composed completely of web designers still testing for IE6? http:\/\/bit.ly\/cr19At",
-    "id" : 29107766711,
-    "created_at" : "2010-10-29 17:25:11 +0000",
-    "user" : {
-      "name" : "Jodie",
-      "screen_name" : "iversia",
-      "protected" : false,
-      "id_str" : "14314571",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678988160\/7758f3816871e2cf17f1cb258243d4ef_normal.png",
-      "id" : 14314571,
-      "verified" : false
-    }
-  },
-  "id" : 29166230624,
-  "created_at" : "2010-10-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/gowalla.com\/\" rel=\"nofollow\"\u003EGowalla\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -582,9 +531,9 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iA",
       "protected" : false,
       "id_str" : "2087371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510071324580909056\/PGyJp57__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612988926047985664\/TvJw7c-B_normal.jpg",
       "id" : 2087371,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 28426385679,
@@ -649,11 +598,11 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 0, 12 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -667,7 +616,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27913279498,
   "in_reply_to_status_id" : 27913168166,
   "created_at" : "2010-10-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "marcusbatey",
+  "in_reply_to_screen_name" : "sundaystudiouk",
   "in_reply_to_user_id_str" : "16687264",
   "user" : {
     "name" : "Chris Rowe",
@@ -956,7 +905,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cat Burton",
+      "name" : "Cat Burton  \uD83D\uDCF7\uD83E\uDD8C",
       "screen_name" : "catburton",
       "indices" : [ 0, 10 ],
       "id_str" : "16654486",
@@ -1195,7 +1144,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tom Peach-Geraghty",
+      "name" : "Tom Geraghty",
       "screen_name" : "tom_geraghty",
       "indices" : [ 0, 13 ],
       "id_str" : "22492092",
@@ -1813,11 +1762,11 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marcus Batey",
+      "name" : "M",
       "screen_name" : "marcusbatey",
       "indices" : [ 0, 12 ],
-      "id_str" : "16687264",
-      "id" : 16687264
+      "id_str" : "864118672968822784",
+      "id" : 864118672968822784
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1831,7 +1780,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26647111451,
   "in_reply_to_status_id" : 26646405387,
   "created_at" : "2010-10-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "marcusbatey",
+  "in_reply_to_screen_name" : "sundaystudiouk",
   "in_reply_to_user_id_str" : "16687264",
   "user" : {
     "name" : "Chris Rowe",
@@ -2091,11 +2040,11 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zoe_oleshansky",
+      "name" : "Thom White",
       "screen_name" : "thom_white",
       "indices" : [ 0, 11 ],
-      "id_str" : "2664194294",
-      "id" : 2664194294
+      "id_str" : "925438174473592832",
+      "id" : 925438174473592832
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2124,11 +2073,11 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zoe_oleshansky",
+      "name" : "Thom White",
       "screen_name" : "thom_white",
       "indices" : [ 0, 11 ],
-      "id_str" : "2664194294",
-      "id" : 2664194294
+      "id_str" : "925438174473592832",
+      "id" : 925438174473592832
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2157,7 +2106,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Bird",
+      "name" : "Adam Bird \uD83D\uDCC6",
       "screen_name" : "adambird",
       "indices" : [ 0, 9 ],
       "id_str" : "10083602",
@@ -2293,7 +2242,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "rainnwilson",
       "protected" : false,
       "id_str" : "19637934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562366107802034176\/eM77KsFy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/897899380941836288\/Gy_lgf7a_normal.jpg",
       "id" : 19637934,
       "verified" : true
     }
@@ -2322,6 +2271,28 @@ Grailbird.data.tweets_2010_10 =
   "text" : "iMac has developed a cloudy patch of condensation in the bottom right corner.  http:\/\/twitpic.com\/2ug83y  Now shopping for 27\" model.",
   "id" : 26307438698,
   "created_at" : "2010-10-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Chris Rowe",
+    "screen_name" : "chrisrowe",
+    "protected" : false,
+    "id_str" : "1617841",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
+    "id" : 1617841,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26058293805",
+  "text" : "My AppleTV left the factory, went to HongKong, then here to Nottingham but is now off to Netherlands before coming back? http:\/\/cl.ly\/2dGL",
+  "id" : 26058293805,
+  "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
     "screen_name" : "chrisrowe",
@@ -2521,28 +2492,6 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26057436450",
   "text" : "Happy 'Back to the Future's 25th Anniversary and is on at the cinema' day!",
   "id" : 26057436450,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Chris Rowe",
-    "screen_name" : "chrisrowe",
-    "protected" : false,
-    "id_str" : "1617841",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458884002787491840\/WaVgj0pK_normal.jpeg",
-    "id" : 1617841,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26058293805",
-  "text" : "My AppleTV left the factory, went to HongKong, then here to Nottingham but is now off to Netherlands before coming back? http:\/\/cl.ly\/2dGL",
-  "id" : 26058293805,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",

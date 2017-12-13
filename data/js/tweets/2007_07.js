@@ -294,9 +294,9 @@ Grailbird.data.tweets_2007_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "166155712",
-  "text" : "My fingertips are holding onto the cracks in our foundations. CS mini figures FTW!",
-  "id" : 166155712,
+  "id_str" : "165669482",
+  "text" : "Amazon S3 ftw. All you can eat, fill your bucket!",
+  "id" : 165669482,
   "created_at" : "2007-07-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
@@ -316,9 +316,9 @@ Grailbird.data.tweets_2007_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "165669482",
-  "text" : "Amazon S3 ftw. All you can eat, fill your bucket!",
-  "id" : 165669482,
+  "id_str" : "166155712",
+  "text" : "My fingertips are holding onto the cracks in our foundations. CS mini figures FTW!",
+  "id" : 166155712,
   "created_at" : "2007-07-24 00:00:00 +0000",
   "user" : {
     "name" : "Chris Rowe",
